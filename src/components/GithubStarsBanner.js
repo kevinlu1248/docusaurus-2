@@ -13,7 +13,8 @@ const GithubStarsBanner = () => {
 
   return (
     <div className={clsx('banner', styles.banner)}>
-      <p>Please star the Docusaurus repository on GitHub! Current stars: {starsCount}</p>
+      <p><a href="https://github.com/facebook/docusaurus">Star our repo</a></p>
+      <img src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" alt="Stars" />
     </div>
   );
 };
