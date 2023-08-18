@@ -1,0 +1,13 @@
+.banner {
+  background-color: lime;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin: 0;
+}
+
+.banner img {
+  margin-bottom: -5px;
+}
+
