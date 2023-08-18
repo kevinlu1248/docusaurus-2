@@ -11,7 +11,7 @@ function StarBanner() {
 
   return (
     <div className="star-banner">
-      <p>Please star the Docusaurus repository on GitHub! Current stars: {stars}</p>
+      <p>⭐ Please star the Docusaurus repository on GitHub! Current stars: {stars}</p>
     </div>
   );
 }
