@@ -1,7 +1,9 @@
 .banner {
   background-color: lime;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 5px;
-  margin: 10px 0;
+  margin: 0;
 }
 
