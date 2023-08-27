@@ -65,6 +65,24 @@ const config = {
         items: [
           {
             type: 'doc',
+            docId: 'facebook',
+            position: 'left',
+            label: 'Facebook',
+          },
+          {
+            type: 'doc',
+            docId: 'instagram',
+            position: 'left',
+            label: 'Instagram',
+          },
+          {
+            type: 'doc',
+            docId: 'twitter',
+            position: 'left',
+            label: 'Twitter',
+          },
+          {
+            type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
